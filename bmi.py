@@ -2,7 +2,8 @@
 weight = 65
 height = 180
 
-#ibm formula
+#ibm formula found at https://www.w3resource.com/python-exercises/python-basic-exercise-66.php
+
 ibm = weight / (height/100)**2
 
 #print the result
