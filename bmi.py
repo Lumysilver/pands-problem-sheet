@@ -1,4 +1,4 @@
-#decalre weight and height variables
+#declare weight and height variables
 weight = 65
 height = 180
 
