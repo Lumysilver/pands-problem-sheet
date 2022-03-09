@@ -1,4 +1,4 @@
-#decalre weiht and height variables
+#decalre weight and height variables
 weight = 65
 height = 180
 
