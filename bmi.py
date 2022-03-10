@@ -1,6 +1,6 @@
 #declare weight and height variables
 #after lab 3.1 I have learned hoow to use input from comand line
-#
+
 weight = float(input("Enter your weight"))
 height = float(input("Enter your height"))
 
