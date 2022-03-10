@@ -4,7 +4,7 @@
 weight = float(input("Enter your weight"))
 height = float(input("Enter your height"))
 
-#bmi formula found at https://www.w3resource.com/python-exercises/python-basic-exercise-66.php
+#bmi formula found at https://www.euro.who.int/en/health-topics/disease-prevention/nutrition/a-healthy-lifestyle/body-mass-index-bmi
 
 bmi = weight / (height/100)**2
 
