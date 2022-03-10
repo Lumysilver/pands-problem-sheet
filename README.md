@@ -1,6 +1,8 @@
 # pands-problem-sheet
 Assignment GMIT - due 6th of April - weekly commitments are required
 
+This program requres from user to enter their weight and height in metric values; The result will show them the BMI. 
+
 #Another valuable source is at: https://www.w3schools.com/Python/python_ref_functions.asp
 
 Source of the code:
