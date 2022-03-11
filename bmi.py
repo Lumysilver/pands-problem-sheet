@@ -9,4 +9,7 @@ height = float(input("Enter your height(m): "))
 bmi = weight / (height/100)**2
 
 #print the result using the fortmat function and the round function as seen in 3.1 lab
-print ("Your bmi is: ", round (bmi))
+#after the round input I've noticed that the result is rounded without any decimals
+#I have to modify the formula, so the result will have two decimals
+
+print ("Your bmi is: ", round (bmi), 2)
