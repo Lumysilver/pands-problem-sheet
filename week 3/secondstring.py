@@ -2,17 +2,11 @@
 # letter in reverse order
 #text: 'The quick brown fox jumps over the lazy dog.'
 
+#we have to assign the variable
 sentence = input("Enter sentence: ")
-words = 
 
-str = "The quick brown fox jumps over the lazy dog"
+#to print every second letter in reverse order had to be researched online and was found at:
+#  https://stackoverflow.com/questions/28535392/what-does-n-1-means-in-python
+# also [::] (double colon) is exlained at: https://www.askpython.com/python/examples/colon-in-python
 
-
-words = sentence.split('2')
-print(words[::2])
-
-
-from asyncio.format_helpers import extract_stack
-
-str(extract_stack )
-
+print (sentence[:: -2])
