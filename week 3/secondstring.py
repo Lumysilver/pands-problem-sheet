@@ -3,6 +3,7 @@
 #text: 'The quick brown fox jumps over the lazy dog.'
 
 #we have to assign the variable
+
 sentence = input("Please enter a sentence: ")
 
 #to print every second letter in reverse order had to be researched online and was found at:
