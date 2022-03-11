@@ -1,5 +1,8 @@
 # pands-problem-sheet
-Assignment GMIT - due 6th of April - weekly commitments are required
+How to use the program: 
+1.  First step: Enter your height in m;
+2.  Second step: Enter your weight in kg;
+3.  Result display: your total BMI with 2 decimals. 
 
 This program requres from user to enter their weight and height in metric values; The result will show them the BMI. 
 
