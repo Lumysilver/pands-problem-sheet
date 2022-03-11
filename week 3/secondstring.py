@@ -3,7 +3,7 @@
 #text: 'The quick brown fox jumps over the lazy dog.'
 
 #we have to assign the variable
-sentence = input("Enter sentence: ")
+sentence = input("Please enter a sentence: ")
 
 #to print every second letter in reverse order had to be researched online and was found at:
 #  https://stackoverflow.com/questions/28535392/what-does-n-1-means-in-python
