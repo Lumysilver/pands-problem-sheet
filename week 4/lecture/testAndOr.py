@@ -1,4 +1,4 @@
-#messing with and and ors
+#messing with and and or
 
 number = -1
 if number >=0 and number <=100:  #we can also put brackets
