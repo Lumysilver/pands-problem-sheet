@@ -1,4 +1,4 @@
-#Requireme  391nts:
+#Requirements:
 #Write a program that asks the user to input any positive integer
 # and outputs the successive values of the following calculation.
 #At each step calculate the next value by taking the current value and,
@@ -19,6 +19,7 @@ while n > 1:
     if n % 2 == 0:
         n = n / 2
         print(n)
+
 #with 'else' we multiplied n by 3 and we added 1;
     else:
         n = n * 3 + 1
