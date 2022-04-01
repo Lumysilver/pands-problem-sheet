@@ -7,4 +7,4 @@ while n > 0:
     n = n - 1
     print(n)
 
-#definite iteration runs as many timws as indicated in the code
+#definite iteration runs as many times as indicated in the code

@@ -1,4 +1,4 @@
-#this program automaticly will tell you if 'today' is a weekday or weekend day. 
+#this program automaticaly will tell you if 'today' is a weekday or weekend day. 
 #once you run the program, youl'll have your answer.
 
 
