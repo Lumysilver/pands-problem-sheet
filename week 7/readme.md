@@ -5,5 +5,3 @@ The program should take the filename from an argument on the command line. I hav
 
 $ python es.py moby-dick.txt
 116960
-
-#First we 
